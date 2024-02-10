@@ -21,10 +21,6 @@ Magento 2.4.X (CE, EE, ECE)
 
 Specify project dependencies using a JSON file & leave everything to Composer.
 
-# Compatible with Hyvä
-
-![Screenshot Capture - 2024-02-08 - 14-36-23](https://github.com/patelanny/magento-2-easy-coupon-manager/assets/121279820/9d2278de-e0b8-4585-9159-bc77325456e7)
-
 # Features
 
 1. Create appealing and original product designs.
